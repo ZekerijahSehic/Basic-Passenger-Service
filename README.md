@@ -42,7 +42,7 @@ passengers or single passenger, updating existing passenger and deleting a passe
 
 ### Getting Started
 
-After cloning and running project on your localhost. 
+After cloning and running project on your localhost, most often (http://localhost:8080/). 
 You will see simple UI, filled up already with some data (I used file data.sql for inserting data in memory database H2)
 
 You can edit, preview or delete this data.<br>
